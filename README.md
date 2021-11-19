@@ -1,2 +1,4 @@
 # Socket_Chat_Server_And_Client_TCP
-פרוייקט שנכתב בפייתון. פרוייקט זה הוא פלטפורמת צאט מסוג socket TCP בין שרת ללקוח.
+A project written in Python. 
+
+This project is a **Socket TCP Chat Platform** between server and client.
